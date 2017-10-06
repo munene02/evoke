@@ -7,6 +7,15 @@
 <html class="no-js">
 <!--<![endif]-->
 <head>
+    <!-- Global Site Tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-58884093-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-58884093-1');
+</script>
 
     <meta charset="utf-8">
     <title>Evoke Media | Inspire Creatively</title>
