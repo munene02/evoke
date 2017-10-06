@@ -18,8 +18,8 @@
 </script>
     <meta charset="utf-8">
     <title>Evoke Media | Web Design Portfolio</title>
-    <meta name="keywords" content="Mobile Apps kenya, web development, web design kenya, social media kenya, online marketing kenya, advertising" />
-    <meta name="description" content=">Evoke Media Limited is a creative agency that specializes in web design & development, Mobile App development, advertising, social media and online marketing." />
+    <meta name="keywords" content="web development, web design, web app, social media, kenya, online marketing, advertising, nairobi, " />
+    <meta name="description" content=">Check out our web design portfolio, if you like what you see get in touch." />
     <meta name="author" content="Evoke Media">
 
 
