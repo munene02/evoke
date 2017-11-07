@@ -254,6 +254,69 @@
                                                         </div>
                                                     </div>
                                                 </li>
+
+                                                <li class="portfolio-item isotope-item category-banner wide tall">
+                                                    <div class="portfolio-item-fw-bg">
+                                                        <div class="portfolio-item-fw-wrapper">
+                                                            
+                                                            <div class="image_frame scale-with-grid">
+                                                                <div class="image_wrapper">
+                                                                    <a href="#">
+                                                                        <div class="mask"></div><img width="640" height="427" src="images/web_14-640x427.jpg" class="scale-with-grid wp-post-image" alt="PRC Website" />
+                                                                    </a>
+                                                                    <div class="image_links">
+                                                                        <a href="images/web_14-1200x800.jpg" class="zoom" title="PRC Website" rel="prettyphoto"><i class="icon-search"></i></a>
+                                                                        
+                                                                        
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+
+                                                        </div>
+                                                    </div>
+                                                </li>
+
+                                                <li class="portfolio-item isotope-item category-banner wide tall">
+                                                    <div class="portfolio-item-fw-bg">
+                                                        <div class="portfolio-item-fw-wrapper">
+                                                            
+                                                            <div class="image_frame scale-with-grid">
+                                                                <div class="image_wrapper">
+                                                                    <a href="#">
+                                                                        <div class="mask"></div><img width="640" height="427" src="images/web_15-640x427.jpg" class="scale-with-grid wp-post-image" alt="Nissan Kenya Website" />
+                                                                    </a>
+                                                                    <div class="image_links">
+                                                                        <a href="images/web_15-1200x800.jpg" class="zoom" title="Nissan Kenya Website" rel="prettyphoto"><i class="icon-search"></i></a>
+                                                                        
+                                                                        
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+
+                                                        </div>
+                                                    </div>
+                                                </li>
+
+                                                <li class="portfolio-item isotope-item category-banner wide tall">
+                                                    <div class="portfolio-item-fw-bg">
+                                                        <div class="portfolio-item-fw-wrapper">
+                                                            
+                                                            <div class="image_frame scale-with-grid">
+                                                                <div class="image_wrapper">
+                                                                    <a href="#">
+                                                                        <div class="mask"></div><img width="640" height="427" src="images/web_16-640x427.jpg" class="scale-with-grid wp-post-image" alt="Cables Congo Website" />
+                                                                    </a>
+                                                                    <div class="image_links">
+                                                                        <a href="images/web_16-1200x800.jpg" class="zoom" title="East African Cables Congo Website" rel="prettyphoto"><i class="icon-search"></i></a>
+                                                                        
+                                                                        
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+
+                                                        </div>
+                                                    </div>
+                                                </li>
                                                 
                                             </ul>
                                         </div>
