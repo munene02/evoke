@@ -246,176 +246,174 @@ We are by far reasonable in our costing and we offer many add-ons. We deal with 
                                         <div class="column_attr animate" data-anim-type="fadeInLeft">
                                             <h3 class="title">Our Past Clients</h3>
                                             <ul class="clients clearfix  clients_tiles">
-                                                <li style="width:16.667%" >
-                                                    <div class="client_wrapper">            
-                                                        <div class="gs-wrapper"><img width="290" height="150" src="images/clients/travel.jpg" class="scale-with-grid wp-post-image" 
+                                                <li style="width:25%;height:150px;padding-bottom: 10px;">
+                                                    <div class="">            
+                                                        <div class="gs-wrapper" ><img width="290" height="150"  src="images/clients/travel.jpg" class="scale-with-grid wp-post-image" 
                                                             alt="Travel Corp">
                                                         </div>
                                                     </div>
                                                 </li>
-                                                <li style="width:16.667%">
-                                                    <div class="client_wrapper">            
-                                                        <div class="gs-wrapper"><img width="290" height="150" src="images/clients/impact.jpg" class="scale-with-grid wp-post-image" 
+                                                <li style="width:25%;height:150px;padding-bottom: 10px;">
+                                                    <div class="">            
+                                                        <div class="gs-wrapper" ><img width="290" height="150"  src="images/clients/impact.jpg" class="scale-with-grid wp-post-image" 
                                                             alt="Impact Chemicals">
                                                         </div>
                                                     </div>
                                                 </li>
-                                                <li style="width:16.667%">
-                                                    <div class="client_wrapper">            
-                                                        <div class="gs-wrapper"><img width="290" height="150" src="images/clients/safe.jpg" class="scale-with-grid wp-post-image" 
+                                                <li style="width:25%;height:150px;padding-bottom: 10px;">
+                                                    <div class="">            
+                                                        <div class="gs-wrapper" ><img width="290" height="150"  src="images/clients/safe.jpg" class="scale-with-grid wp-post-image" 
                                                             alt="Safezone AUtoParts">
                                                         </div>
                                                     </div>
                                                 </li>
-                                                <li style="width:16.667%">
-                                                    <div class="client_wrapper">            
-                                                        <div class="gs-wrapper"><img width="290" height="150" src="images/clients/tripple.jpg" class="scale-with-grid wp-post-image" 
+                                                <li style="width:25%;height:150px;padding-bottom: 10px;">
+                                                    <div class="">            
+                                                        <div class="gs-wrapper" ><img width="290" height="150"  src="images/clients/tripple.jpg" class="scale-with-grid wp-post-image" 
                                                             alt="Tripple Seven Property">
                                                         </div>
                                                     </div>
                                                 </li>
-                                                <li style="width:16.667%">
-                                                    <div class="client_wrapper">            
-                                                        <div class="gs-wrapper"><img width="290" height="150" src="images/clients/foundation.jpg" class="scale-with-grid wp-post-image" 
+                                                <li style="width:25%;height:150px;padding-bottom: 10px;">
+                                                    <div class="">            
+                                                        <div class="gs-wrapper" ><img width="290" height="150"  src="images/clients/foundation.jpg" class="scale-with-grid wp-post-image" 
                                                             alt="The Impact Foundation">
                                                         </div>
                                                     </div>
                                                 </li>
-                                                <li style="width:16.667%">
-                                                    <div class="client_wrapper">            
-                                                        <div class="gs-wrapper"><img width="290" height="150" src="images/clients/african.jpg" class="scale-with-grid wp-post-image" 
+                                                <li style="width:25%;height:150px;padding-bottom: 10px;">
+                                                    <div class="">            
+                                                        <div class="gs-wrapper" ><img width="290" height="150"  src="images/clients/african.jpg" class="scale-with-grid wp-post-image" 
                                                             alt="African Sunset Safaris">
                                                         </div>
                                                     </div>
                                                 </li>
                                                 
-                                                <li style="width:16.667%">
-                                                    <div class="client_wrapper">            
-                                                        <div class="gs-wrapper"><img width="290" height="150" src="images/clients/metro.jpg" class="scale-with-grid wp-post-image" 
+                                                <li style="width:25%;height:150px;padding-bottom: 10px;">
+                                                    <div class="">            
+                                                        <div class="gs-wrapper" ><img width="290" height="150"  src="images/clients/metro.jpg" class="scale-with-grid wp-post-image" 
                                                             alt="Metromech">
                                                         </div>
                                                     </div>
                                                 </li>
-                                                <li style="width:16.667%">
-                                                    <div class="client_wrapper">            
-                                                        <div class="gs-wrapper"><img width="290" height="150" src="images/clients/quicker.jpg" class="scale-with-grid wp-post-image" 
+                                                <li style="width:25%;height:150px;padding-bottom: 10px;">
+                                                    <div class="">            
+                                                        <div class="gs-wrapper" ><img width="290" height="150"  src="images/clients/quicker.jpg" class="scale-with-grid wp-post-image" 
                                                             alt="Quicker Solutions">
                                                         </div>
                                                     </div>
                                                 </li>
-                                                <li style="width:16.667%">
-                                                    <div class="client_wrapper">            
-                                                        <div class="gs-wrapper"><img width="290" height="150" src="images/clients/homelink.jpg" class="scale-with-grid wp-post-image" 
+                                                <li style="width:25%;height:150px;padding-bottom: 10px;">
+                                                    <div class="">            
+                                                        <div class="gs-wrapper" ><img width="290" height="150"  src="images/clients/homelink.jpg" class="scale-with-grid wp-post-image" 
                                                             alt="Homelink REal Estate">
                                                         </div>
                                                     </div>
                                                 </li>
                                                 
-                                                <li style="width:16.667%">
-                                                    <div class="client_wrapper">            
-                                                        <div class="gs-wrapper"><img width="290" height="150" src="images/clients/supa.jpg" class="scale-with-grid wp-post-image" 
+                                                <li style="width:25%;height:150px;padding-bottom: 10px;">
+                                                    <div class="">            
+                                                        <div class="gs-wrapper" ><img width="290" height="150"  src="images/clients/supa.jpg" class="scale-with-grid wp-post-image" 
                                                             alt="Supacosm Products">
                                                         </div>
                                                     </div>
                                                 </li>
-                                                <li style="width:16.667%">
-                                                    <div class="client_wrapper">            
-                                                        <div class="gs-wrapper"><img width="290" height="150" src="images/clients/yin.jpg" class="scale-with-grid wp-post-image" 
+                                                <li style="width:25%;height:150px;padding-bottom: 10px;">
+                                                    <div class="">            
+                                                        <div class="gs-wrapper" ><img width="290" height="150"  src="images/clients/yin.jpg" class="scale-with-grid wp-post-image" 
                                                             alt="Yin and Yang Antiques Shop">
                                                         </div>
                                                     </div>
                                                 </li>
 
-                                                <li style="width:16.667%">
-                                                    <div class="client_wrapper">            
-                                                        <div class="gs-wrapper"><img width="290" height="150" src="images/clients/uip.jpg" class="scale-with-grid wp-post-image" 
+                                                <li style="width:25%;height:150px;padding-bottom: 10px;">
+                                                    <div class="">            
+                                                        <div class="gs-wrapper" ><img width="290" height="150"  src="images/clients/uip.jpg" class="scale-with-grid wp-post-image" 
                                                             alt="Unique Investors Property Limited">
                                                         </div>
                                                     </div>
                                                 </li>
                                                 
-                                                <li style="width:16.667%">
-                                                    <div class="client_wrapper">            
-                                                        <div class="gs-wrapper"><img width="290" height="150" src="images/clients/srg.jpg" class="scale-with-grid wp-post-image" 
+                                                <li style="width:25%;height:150px;padding-bottom: 10px;">
+                                                    <div class="">            
+                                                        <div class="gs-wrapper" ><img width="290" height="150"  src="images/clients/srg.jpg" class="scale-with-grid wp-post-image" 
                                                             alt="SRG">
                                                         </div>
                                                     </div>
                                                 </li>
-                                                <li style="width:16.667%">
-                                                    <div class="client_wrapper">            
-                                                        <div class="gs-wrapper"><img width="290" height="150" src="images/clients/prime.jpg" class="scale-with-grid wp-post-image" 
+                                                <li style="width:25%;height:150px;padding-bottom: 10px;">
+                                                    <div class="">            
+                                                        <div class="gs-wrapper" ><img width="290" height="150"  src="images/clients/prime.jpg" class="scale-with-grid wp-post-image" 
                                                             alt="Primescapes">
                                                         </div>
                                                     </div>
                                                 </li>
-                                                <li style="width:16.667%">
-                                                    <div class="client_wrapper">            
-                                                        <div class="gs-wrapper"><img width="290" height="150" src="images/clients/ultra.jpg" class="scale-with-grid wp-post-image" 
+                                                <li style="width:25%;height:150px;padding-bottom: 10px;">
+                                                    <div class="">            
+                                                        <div class="gs-wrapper" ><img width="290" height="150"  src="images/clients/ultra.jpg" class="scale-with-grid wp-post-image" 
                                                             alt="Ultra Networking Services">
                                                         </div>
                                                     </div>
                                                 </li>
-                                                <li style="width:16.667%">
-                                                    <div class="client_wrapper">            
-                                                        <div class="gs-wrapper"><img width="290" height="150" src="images/clients/nyali.jpg" class="scale-with-grid wp-post-image" 
+                                                <li style="width:25%;height:150px;padding-bottom: 10px;">
+                                                    <div class="">            
+                                                        <div class="gs-wrapper" ><img width="290" height="150"  src="images/clients/nyali.jpg" class="scale-with-grid wp-post-image" 
                                                             alt="Nyali Parkside Resort">
                                                         </div>
                                                     </div>
                                                 </li>
-                                                <li style="width:16.667%">
-                                                    <div class="client_wrapper">            
-                                                        <div class="gs-wrapper"><img width="290" height="150" src="images/clients/marimo.jpg" class="scale-with-grid wp-post-image" 
+                                                <li style="width:25%;height:150px;padding-bottom: 10px;">
+                                                    <div class="">            
+                                                        <div class="gs-wrapper" ><img width="290" height="150"  src="images/clients/marimo.jpg" class="scale-with-grid wp-post-image" 
                                                             alt="Marimo COnstruction">
                                                         </div>
                                                     </div>
                                                 </li>
-                                                <li style="width:16.667%">
-                                                    <div class="client_wrapper">            
-                                                        <div class="gs-wrapper"><img width="290" height="150" src="images/clients/dyge.jpg" class="scale-with-grid wp-post-image" 
+                                                <li style="width:25%;height:150px;padding-bottom: 10px;">
+                                                    <div class="">            
+                                                        <div class="gs-wrapper" ><img width="290" height="150"  src="images/clients/dyge.jpg" class="scale-with-grid wp-post-image" 
                                                             alt="Dyge COnsultancy">
                                                         </div>
                                                     </div>
                                                 </li>
-                                                <li style="width:16.667%">
-                                                    <div class="client_wrapper">            
-                                                        <div class="gs-wrapper"><img width="290" height="150" src="images/clients/dvf.jpg" class="scale-with-grid wp-post-image" 
+                                                <li style="width:25%;height:150px;padding-bottom: 10px;">
+                                                    <div class="">            
+                                                        <div class="gs-wrapper" ><img width="290" height="150"  src="images/clients/dvf.jpg" class="scale-with-grid wp-post-image" 
                                                             alt="Deef Valley Frontiers">
                                                         </div>
                                                     </div>
                                                 </li>
 
-                                                <li style="width:16.667%">
-                                                    <div class="client_wrapper">            
-                                                        <div class="gs-wrapper"><img width="290" height="150" src="images/clients/cables.jpg" class="scale-with-grid wp-post-image" 
+                                                <li style="width:25%;height:150px;padding-bottom: 10px;">
+                                                    <div class="">            
+                                                        <div class="gs-wrapper" ><img width="290" height="150"  src="images/clients/cables.jpg" class="scale-with-grid wp-post-image" 
                                                             alt="EA Cables Congo">
                                                         </div>
                                                     </div>
                                                 </li>
-                                                <li style="width:16.667%">
-                                                    <div class="client_wrapper">            
-                                                        <div class="gs-wrapper"><img width="290" height="150" src="images/clients/nissan.jpg" class="scale-with-grid wp-post-image" 
+                                                <li style="width:25%;height:150px;padding-bottom: 10px;">
+                                                    <div class="">            
+                                                        <div class="gs-wrapper" ><img width="290" height="150"  src="images/clients/nissan.jpg" class="scale-with-grid wp-post-image" 
                                                             alt="Nissan Kenya">
                                                         </div>
                                                     </div>
                                                 </li>
-                                                <li style="width:16.667%">
-                                                    <div class="client_wrapper">            
-                                                        <div class="gs-wrapper"><img width="290" height="150" src="images/clients/prc.jpg" class="scale-witPRC">
+                                                <li style="width:25%;height:150px;padding-bottom: 10px;">
+                                                    <div class="">            
+                                                        <div class="gs-wrapper" ><img width="290" height="150"  src="images/clients/prc.jpg" class="scale-witPRC">
                                                         </div>
                                                     </div>
                                                 </li>
-                                                
-                                                
-                                                <li style="width:16.667%">
-                                                    <div class="client_wrapper">            
-                                                        <div class="gs-wrapper"><img width="290" height="150" src="images/clients/emerald.jpg" class="scale-with-grid wp-post-image" 
+                                                <li style="width:25%;height:150px;padding-bottom: 10px;">
+                                                    <div class="">            
+                                                        <div class="gs-wrapper" ><img width="290" height="150"  src="images/clients/emerald.jpg" class="scale-with-grid wp-post-image" 
                                                             alt="Emerald Collection">
                                                         </div>
                                                     </div>
                                                 </li>
-                                                <li style="width:16.667%">
-                                                    <div class="client_wrapper">            
-                                                        <div class="gs-wrapper"><img width="290" height="150" src="images/clients/blue.jpg" class="scale-with-grid wp-post-image" 
+                                                <li style="width:25%;height:150px;padding-bottom: 10px;">
+                                                    <div class="">            
+                                                        <div class="gs-wrapper" ><img width="290" height="150"  src="images/clients/blue.jpg" class="scale-with-grid wp-post-image" 
                                                             alt="Bluebay Zanzibar">
                                                         </div>
                                                     </div>
