@@ -188,7 +188,7 @@
                                         <div class="column_attr animate" data-anim-type="fadeInLeft">
                                             <h3>Karibu!</h3>
                                             <p style="text-align: justify;">
-                                                We are an IT firm that specializes in <strong>Web & Mobile Application development, Graphic Design and Photography.</strong> We offer our customers exceptional results which educe a positive customer experience for their business liaisons. These ideals ‘catapult’ our clients to growth in their operations while remaining competitive, relevant and effective.
+                                                We are an multi media firm that specializes in <strong>Web & Mobile Application development, Graphic Design and Photography.</strong> We offer our customers exceptional results which educe a positive customer experience for their business liaisons. These ideals ‘catapult’ our clients to growth in their operations while remaining competitive, relevant and effective.
                                             </p>
                                             <br/>
                                             <h3>Why Evoke Media</h3>
