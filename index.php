@@ -58,9 +58,30 @@
                                         </div>
                                     </div>
 
+                                    
+
                                     <div class="column one column_portfolio">
                                         <div class="portfolio_wrapper isotope_wrapper ">
                                             <ul class="portfolio_group lm_wrapper isotope flat">
+
+                                                <li class="portfolio-item isotope-item category-banner wide tall">
+                                                    <div class="portfolio-item-fw-bg">
+                                                        <div class="portfolio-item-fw-wrapper">
+                                                            
+                                                            <div class="image_frame scale-with-grid">
+                                                                <div class="image_wrapper">
+                                                                    <a href="#">
+                                                                        <div class="mask"></div><img width="640" height="427" src="images/web_17-640x427.jpg" class="scale-with-grid wp-post-image" alt="portfolio_5" />
+                                                                    </a>
+                                                                    <div class="image_links ">
+                                                                        <a href="images/web_17-1200x800.jpg" class="zoom" rel="prettyphoto"><i class="icon-search"></i></a>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+
+                                                        </div>
+                                                    </div>
+                                                </li>
 
                                                 <li class="portfolio-item isotope-item category-banner wide tall">
                                                     <div class="portfolio-item-fw-bg">
@@ -101,7 +122,7 @@
                                                         </div>
                                                     </div>
                                                 </li>
-                                                 <li class="portfolio-item isotope-item category-banner wide tall">
+                                                 <!-- <li class="portfolio-item isotope-item category-banner wide tall">
                                                     <div class="portfolio-item-fw-bg">
                                                         <div class="portfolio-item-fw-wrapper">
                                                             
@@ -118,7 +139,7 @@
 
                                                         </div>
                                                     </div>
-                                                </li>
+                                                </li> -->
 
                                                 <li class="portfolio-item isotope-item category-banner wide tall">
                                                     <div class="portfolio-item-fw-bg">
