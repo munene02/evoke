@@ -70,6 +70,26 @@
                                     <div class="column one column_portfolio">
                                         <div class="portfolio_wrapper isotope_wrapper ">
                                             <ul class="portfolio_group lm_wrapper isotope flat">
+                                                <li class="portfolio-item isotope-item category-banner wide tall">
+                                                    <div class="portfolio-item-fw-bg">
+                                                        <div class="portfolio-item-fw-wrapper">
+                                                            
+                                                            <div class="image_frame scale-with-grid">
+                                                                <div class="image_wrapper">
+                                                                    <a href="#">
+                                                                        <div class="mask"></div><img width="640" height="427" src="images/web_17-640x427.jpg" class="scale-with-grid wp-post-image" alt="Impact Foundation Website" />
+                                                                    </a>
+                                                                    <div class="image_links double">
+                                                                        <a href="images/web_17-1200x800.jpg" class="zoom" title="Impact Foundation Website" rel="prettyphoto"><i class="icon-search"></i></a>
+                                                                        <a target="_blank" href="http://theimpactfoundation.co.ke" class="external"><i class="icon-forward"></i></a>
+                                                                        
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+
+                                                        </div>
+                                                    </div>
+                                                </li>
 
                                                 <li class="portfolio-item isotope-item category-banner wide tall">
                                                     <div class="portfolio-item-fw-bg">
